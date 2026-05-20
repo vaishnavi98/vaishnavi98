@@ -57,14 +57,6 @@ Developed REST APIs for shipment tracking, scheduling, and logistics automation.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi98&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi98&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/vaishnavi-arumugam/">
