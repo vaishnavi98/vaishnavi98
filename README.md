@@ -9,7 +9,7 @@
 - 🔭 Currently building: **Students Attendance System** (Spring Boot + Angular)  
 - 🌱 Learning: **AWS**, **Kotlin**, and improving French  
 - 🎯 Goal: Secure a backend Java role in Paris  
-- 📫 Reach me at: **vaishnaviarumugam98@gmail.com**
+- 📫 Reach me at: **srarumugam6@gmail.com**
 
 ---
 
@@ -46,8 +46,8 @@
 
 ### **Students Attendance System (Spring Boot + Angular)**  
 A full‑stack attendance management platform with JWT auth, role‑based access, and PostgreSQL.  
-🔗 [View Backend Repo](ca://s?q=Open_my_backend_repo)  
-🔗 [View Frontend Repo](ca://s?q=Open_my_frontend_repo)
+🔗 [View Backend Repo](https://github.com/vaishnavi98/Students-Attendance-System)  
+🔗 [View Frontend Repo](https://github.com/vaishnavi98/students-attendance-ui)
 
 ### **5G Traffic Control — Ericsson**  
 Optimized API performance and traffic routing for 5G network components using Spring Boot microservices.
